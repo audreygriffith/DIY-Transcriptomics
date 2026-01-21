@@ -1,0 +1,19 @@
+for FASTQ in *fastq*
+if [[ $FASTQ == *subsample* ]];
+then 
+        do
+                OUT=${FASTQ//.fastq.gz/_mapped}
+                LOG=${FASTQ//.fastq.gz/_mapped.log}
+                fastqc $FASTQ
+                kallisto quant -i Homo_sapiens.GRCh38.cdna.all.index -o $OUT --single -l 250 -s 30 $FASTQ -t 8 &> $LOG
+                echo "kallisto quant -i Homo_sapiens.GRCh38.cdna.all.index -o $OUT --single -l 250 -s 30 $FASTQ -t 8 &> $LOG" >> readmappingsummary.txt
+                echo "done mapping reads for $FASTQ"
+done
+
+for FASTQ in *fastq*
+if [[ $FASTQ == *subsample* ]];
+then 
+  echo "fastqc $FASTQ"
+else 
+  echo "$FASTQ was not processed"
+fi

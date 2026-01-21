@@ -1,0 +1,23 @@
+Module	Section	Sample Name	Source
+Kallisto	all_sections	SRR8668769	/Users/alg97/Desktop/PhD Classes/DIY Transcriptomics/CL08.log
+Kallisto	all_sections	SRR8668771	/Users/alg97/Desktop/PhD Classes/DIY Transcriptomics/CL10.log
+Kallisto	all_sections	SRR8668772	/Users/alg97/Desktop/PhD Classes/DIY Transcriptomics/CL11.log
+Kallisto	all_sections	SRR8668773	/Users/alg97/Desktop/PhD Classes/DIY Transcriptomics/CL12.log
+Kallisto	all_sections	SRR8668774	/Users/alg97/Desktop/PhD Classes/DIY Transcriptomics/CL13.log
+Kallisto	all_sections	SRR8668755	/Users/alg97/Desktop/PhD Classes/DIY Transcriptomics/HS01.log
+Kallisto	all_sections	SRR8668756	/Users/alg97/Desktop/PhD Classes/DIY Transcriptomics/HS02.log
+Kallisto	all_sections	SRR8668757	/Users/alg97/Desktop/PhD Classes/DIY Transcriptomics/HS03.log
+Kallisto	all_sections	SRR8668758	/Users/alg97/Desktop/PhD Classes/DIY Transcriptomics/HS04.log
+Kallisto	all_sections	SRR8668759	/Users/alg97/Desktop/PhD Classes/DIY Transcriptomics/HS05.log
+fastp	all_sections	SRR8668755_1M_subsample	/Users/alg97/Desktop/PhD Classes/DIY Transcriptomics/fastp.json
+FastQC	all_sections	SRR8668755	/Users/alg97/Desktop/PhD Classes/DIY Transcriptomics/SRR8668755_fastqc.zip
+FastQC	all_sections	SRR8668755_1M_subsample	/Users/alg97/Desktop/PhD Classes/DIY Transcriptomics/SRR8668755_1M_subsample_fastqc.zip
+FastQC	all_sections	SRR8668756	/Users/alg97/Desktop/PhD Classes/DIY Transcriptomics/SRR8668756_fastqc.zip
+FastQC	all_sections	SRR8668757	/Users/alg97/Desktop/PhD Classes/DIY Transcriptomics/SRR8668757_fastqc.zip
+FastQC	all_sections	SRR8668758	/Users/alg97/Desktop/PhD Classes/DIY Transcriptomics/SRR8668758_fastqc.zip
+FastQC	all_sections	SRR8668759	/Users/alg97/Desktop/PhD Classes/DIY Transcriptomics/SRR8668759_fastqc.zip
+FastQC	all_sections	SRR8668769	/Users/alg97/Desktop/PhD Classes/DIY Transcriptomics/SRR8668769_fastqc.zip
+FastQC	all_sections	SRR8668771	/Users/alg97/Desktop/PhD Classes/DIY Transcriptomics/SRR8668771_fastqc.zip
+FastQC	all_sections	SRR8668772	/Users/alg97/Desktop/PhD Classes/DIY Transcriptomics/SRR8668772_fastqc.zip
+FastQC	all_sections	SRR8668773	/Users/alg97/Desktop/PhD Classes/DIY Transcriptomics/SRR8668773_fastqc.zip
+FastQC	all_sections	SRR8668774	/Users/alg97/Desktop/PhD Classes/DIY Transcriptomics/SRR8668774_fastqc.zip
