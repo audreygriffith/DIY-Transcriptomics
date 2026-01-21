@@ -3,7 +3,7 @@
 > This repo houses all of the code and analysis conducted for the 2026 iteration of the DIYtranscriptomics course
 
 ## Abstract
-Some stuff about your science that the code in this repo was intended to tackle.  If you have a published or draft manuscript, this can literally be your abstract.
+All the stuff about your science that the code in this repo was intended to tackle.  If you have a published or draft manuscript, this can literally be your abstract.
 
 ## Code and files
 > The locations of the core components of this repo are outlined in the file system map below. In short, there are the following main directories:
